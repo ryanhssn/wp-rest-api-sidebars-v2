@@ -30,7 +30,7 @@ note: to enable you to use any version/branch of the [WP REST API][] plugin duri
 ]
 ```
 
-**/wp-json/wp-rest-api-sidebars/v1/sidebars/{id}** *returns the given sidebar*
+**/wp-json/wp-rest-api-sidebars/v2/sidebars/{id}** *returns the given sidebar*
 
 ```json
 {
